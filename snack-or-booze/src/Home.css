@@ -1,0 +1,12 @@
+.invetory-list {
+  list-style-type: none;
+}
+.snack-title {
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.list-names {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
